@@ -7,7 +7,7 @@
 2 + 2 = 
 
 ## Zadanie 3
-3 + 3 =
+3 + 3 = 6
 
 ## Zadanie 4
 4 + 4 =
@@ -29,3 +29,4 @@
 
 ## Zadanie 10
 10 + 10 = 20
+lubie placki
